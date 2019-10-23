@@ -1,5 +1,5 @@
-# Open-Lab-01.03
-(2 XP) Function that do the addition for specified parameter number.
+# Open-Lab-01.03 (2 XP)
+Function that do the addition for specified parameter number.
 
 1. Clone this repository to your GitHub account.
 2. Open solution file in Visual Studio.
